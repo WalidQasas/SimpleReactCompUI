@@ -1,6 +1,6 @@
 import styles from './components.module.css';
 import { Button } from './button';
-import myImage from 'src\assets\walid.jpg';
+import myImage from '../assets/walid.jpg';
 
 export function UserCard() {
   return (
