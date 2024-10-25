@@ -16,7 +16,6 @@ function App() {
 }
 
 // Rules of react
-
 //component life-cycle
 // useEffect hook
 //mounting
